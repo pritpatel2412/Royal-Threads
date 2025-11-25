@@ -316,7 +316,7 @@ const AdminProductManagement = () => {
               </SelectContent>
             </Select>
           </div>
-          <div>
+          {/* <div>
             <Label htmlFor="category_id">Category</Label>
             <Select value={formData.category_id} onValueChange={(value) => setFormData({ ...formData, category_id: value })}>
               <SelectTrigger>
@@ -330,7 +330,7 @@ const AdminProductManagement = () => {
                 ))}
               </SelectContent>
             </Select>
-          </div>
+          </div> */}
         </div>
 
         <div>

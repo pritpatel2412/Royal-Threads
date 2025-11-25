@@ -30,13 +30,13 @@ const About = () => {
             
             <div className="bg-white p-8 rounded-2xl shadow-royal">
               <blockquote className="text-lg text-gray-700 italic mb-6 leading-relaxed">
-                "When I started Royal Threads in 1994, my vision was simple yet profound - 
+                "When I started Royal Threads in 2010, my vision was simple yet profound - 
                 to create wedding attire that doesn't just dress a groom, but transforms him into royalty. 
                 Every thread we weave carries the dreams of families, the hopes of new beginnings, 
                 and the legacy of our rich Indian heritage."
               </blockquote>
               <footer className="text-royal-navy font-semibold">
-                — Rajesh Kumar Agarwal, Founder & Master Craftsman
+                — Mr. Naresh Shah, Founder & Master Craftsman
               </footer>
             </div>
           </div>
