@@ -43,7 +43,7 @@ const About = () => {
 
           <div className="animate-fade-in" style={{ animationDelay: '0.2s' }}>
             <img
-              src="public/images/products/Legacy Brand.jpg"
+              src="/images/products/Legacy Brand.jpg"
               alt="Founder's workshop"
               className="w-full rounded-2xl shadow-royal"
             />
@@ -66,17 +66,17 @@ const About = () => {
               {
                 title: 'Fabric Selection',
                 description: 'We source the finest silks, brocades, and textiles from across India, ensuring each fabric tells its own story of luxury and tradition.',
-                image: 'public/images/products/buying fabric.jpg'
+                image: '/images/products/buying fabric.jpg'
               },
               {
                 title: 'Hand Embroidery',
                 description: 'Our master embroiderers spend countless hours adding intricate details, using techniques passed down through generations.',
-                image: 'public/images/products/hand.jpg'
+                image: '/images/products/hand.jpg'
               },
               {
                 title: 'Perfect Fitting',
                 description: 'Multiple fittings ensure that each garment fits like a second skin, providing comfort without compromising on elegance.',
-                image: 'public/images/products/perfect fitting.webp'
+                image: '/images/products/perfect fitting.webp'
               }
             ].map((process, index) => (
               <div 

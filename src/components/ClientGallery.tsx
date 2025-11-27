@@ -3,12 +3,12 @@ import React from 'react';
 
 const ClientGallery = () => {
   const galleryImages = [
-    'public/images/products/happy client 1.jpeg',
-    'public/images/products/happy client 2.jpg',
-    'public/images/products/happy client 3.jpg',
-    'public/images/products/rohit-anniversary.jpg',
-    'public/images/products/happy client 5.jpg',
-    'public/images/products/happy client 6.webp'
+    '/images/products/happy client 1.jpeg',
+    '/images/products/happy client 2.jpg',
+    '/images/products/happy client 3.jpg',
+    '/images/products/rohit-anniversary.jpg',
+    '/images/products/happy client 5.jpg',
+    '/images/products/happy client 6.webp'
   ];
 
   return (

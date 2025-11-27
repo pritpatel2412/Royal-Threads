@@ -9,28 +9,28 @@ const ProductCategories = () => {
       id: 'sherwani',
       name: 'Sherwani',
       description: 'Royal elegance redefined',
-      image: 'public/images/products/sherwani.JPG',
+      image: '/images/products/sherwani.JPG',
       count: '25+ Designs'
     },
     {
       id: 'indo-western',
       name: 'Indo-Western',
       description: 'Contemporary meets traditional',
-      image: 'public/images/products/indo-western.JPG',
+      image: '/images/products/indo-western.JPG',
       count: '18+ Designs'
     },
     {
       id: 'jodhpuri',
       name: 'Jodhpuri Suits',
       description: 'Maharaja inspired luxury',
-      image: 'public/images/products/jodhpuri.jpg',
+      image: '/images/products/jodhpuri.jpg',
       count: '20+ Designs'
     },
     {
       id: 'groom-sets',
       name: 'Groom Sets',
       description: 'Complete wedding ensembles',
-      image: 'public/images/products/groom-sets.webp',
+      image: '/images/products/groom-sets.webp',
       count: '15+ Collections'
     }
   ];

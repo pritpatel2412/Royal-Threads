@@ -47,7 +47,7 @@ const AboutBrand = () => {
         <div className="animate-fade-in" style={{ animationDelay: '0.2s' }}>
           <div className="relative">
             <img
-              src="public/images/products/Legacy Brand.jpg"
+              src="/images/products/Legacy Brand.jpg"
               alt="Royal Threads Heritage"
               className="w-full rounded-2xl shadow-royal"
             />
